@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **Lucio-Lopes/Lucio-Lopes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 <div>
   <a href="https://github.com/Lucio-Lopes%22%3E
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ffelipealves&show_icons=true&theme=omni&include_all_commits=true&count_private=true%22/%3E
