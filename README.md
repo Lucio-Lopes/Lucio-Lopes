@@ -2,8 +2,6 @@ Lucio-Lopes/README.md
 👋 Hi, I’m Lucio Lopes
 👀 I’m interested in HTML/CSS, Javascript
 🌱 I’m currently learning HTML/CSS, Javascript, node.js
-💞️ I’m looking to collaborate on ...
-📫 How to reach me ...
 <div>
   <a href="https://github.com/Lucio-Lopes">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Lucio-Lopes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
