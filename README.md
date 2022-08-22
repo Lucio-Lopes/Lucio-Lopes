@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lucio Lopes
 - 👀 I’m interested in HTML/CSS, Javascript
-- 🌱 I’m currently learning Javascript,node.js
+- 🌱 I’m currently learning Javascript, node.js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
