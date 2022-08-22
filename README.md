@@ -1,7 +1,8 @@
-Lucio-Lopes/README.md
-👋 Hi, I’m Lucio Lopes
-👀 I’m interested in HTML/CSS, Javascript
-🌱 I’m currently learning HTML/CSS, Javascript, node.js
+Hi, I’m Lucio Lopes
+I’m interested in HTML/CSS, Javascript
+I’m currently learning javascript,node.js
+I’m looking to collaborate on ...
+How to reach me ...
 
 <div>
   <a href="https://github.com/Lucio-Lopes">
