@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Lucio Lopes
 - 👀 I’m interested in Java, HTML/CSS, Javascript
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 <div>
   <a href="https://github.com/lucio-lopes">
